@@ -1,6 +1,6 @@
 <h1 align="center"> Rest assured Api testing </h1>
 
-<p align="center"><A simple java code with Rest Assured for API testing</p>
+<p align="center">A simple java code with Rest Assured for API testing</p>
 
 ## Links
 
