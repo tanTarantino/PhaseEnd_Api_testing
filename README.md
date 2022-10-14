@@ -1,6 +1,6 @@
-<h1 align="center">>PhaseEnd_Api_testing</h1>
+<h1 align="center">> PhaseEnd_Api_testing</h1>
 
-<p align="center"><A simple java code with Rest Assured for API testing></p>
+<p align="center"><>A simple java code with Rest Assured for API testing</p>
 
 ## Links
 
@@ -19,9 +19,9 @@
 
 **Artan Shabani**
 
-- [Profile](https://github.com/tanTarantino"Artan.sh")
-- [Email](mailto:aartan.shabani@gmail.com?subject=Hi "Hi!")
-[//]- [Website](https://kingtechnologies.in "Welcome")
+- [Profile]("https://github.com/tanTarantino"Artan.sh")
+- [Email]("mailto:aartan.shabani@gmail.com?subject=Hi "Hi!")
+[//- [Website](https://kingtechnologies.in "Welcome")]
 
 ## 🤝 Support
 
