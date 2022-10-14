@@ -3,6 +3,8 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+.doc
+.png
 
 # Icon must end with two \r
 Icon
