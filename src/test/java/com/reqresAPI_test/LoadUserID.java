@@ -8,6 +8,7 @@ public class LoadUserID {
 
 	// get user id from Json file
 	public static String getID() throws IOException {
+		
 		String id;
 		
 		BufferedReader in = new BufferedReader(new FileReader("JsonOutput.json"));

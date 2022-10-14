@@ -29,11 +29,11 @@ public class DeleteUser_req extends BaseLoggerTest{
 			.given()
 				.header("authorization", 
 					"Bearer 16e65c5f941fbb7b80ebbe8553eef0a3e40671bb8fbe63c7fe6c7cf943e85e7d")
-		.when()
-			.delete()
-		.then()
-			.log().all()
-			.statusCode(204);
+			.when()
+				.delete()
+			.then()
+				.log().all()
+				.statusCode(204);
 		logger.info("Resource deleted");
 	}
 }
