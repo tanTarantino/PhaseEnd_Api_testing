@@ -4,8 +4,7 @@
 
 ## Links
 
-- [API](<API Link> "https://www.gorest.co.in/public/v2/users")
-
+- [API](<https://www.gorest.co.in/public/v2/users/>"gorest.co.in")
 
 
 ## Built With
